@@ -1,6 +1,6 @@
 # Kaggle kernel votes analysis
 Analysis to gain votes for a kernel on Kaggle using Meta Kaggle dataset.
-The analysis is also available as __[Kaggle kernel](https://www.kaggle.com/aleksandradeis/how-to-get-upvotes-for-a-kernel-on-kaggle)__.
+The analysis is also available as __[Kaggle kernel](https://www.kaggle.com/aleksandradeis/how-to-get-upvotes-for-a-kernel-on-kaggle)__ and __[Medium article](https://medium.com/@astakhova.aleksandra/how-to-get-upvotes-for-a-kernel-on-kaggle-2e7de8722d9d)__.
 
 ## Introduction
 I have recently joined Kaggle and started to create public kernels. My kernels have a lot of views, but no upvotes. So I decided to analyze __[Meta Kaggle dataset](https://www.kaggle.com/kaggle/meta-kaggle)__ to find out:
